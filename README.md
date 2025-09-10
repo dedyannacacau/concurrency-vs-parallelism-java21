@@ -41,7 +41,7 @@ mvn exec:java -Dexec.mainClass="org.example.VirtualThreadExample"
 📖 Medium Post
 
 This repository goes along with the article I wrote on Medium:
-👉 [Concurrency vs Parallelism in Java: Exploring Virtual Threads in Java 21](https://medium.com/@dedyannacacau/concurrency-vs-parallelism-in-java-exploring-virtual-threads-in-java-21-a5b5a657a72a)
+👉 [Concurrency vs Parallelism in Java](https://medium.com/@dedyannacacau/concurrency-vs-parallelism-in-java-exploring-virtual-threads-in-java-21-a5b5a657a72a)
 
 💡 Contributions
 
