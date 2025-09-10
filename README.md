@@ -1,4 +1,4 @@
-# Concurrency vs Parallelism in Java 21 🚀
+# Concurrency vs Parallelism in Java 🚀
 
 This repository contains simple examples to demonstrate **Concurrency vs Parallelism in Java**, including the new **Virtual Threads (Project Loom)** introduced in **Java 21**.
 
